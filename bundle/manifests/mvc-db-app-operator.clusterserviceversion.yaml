@@ -37,7 +37,7 @@ metadata:
     capabilities: Basic Install
     categories: Developer Tools
     certified: "false"    
-    createdAt: "2020-12-03T12:00:00Z"
+    createdAt: "2021-05-04T12:00:00Z"
     repository: https://github.com/rhm-samples/helm-operator/tree/main/mvc-db-app-operator
     support: IBM Edge
     operators.operatorframework.io/builder: operator-sdk-v1.1.0
